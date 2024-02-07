@@ -1,10 +1,3 @@
-"Diwali Sales Analysis"
-" Using Python Library 
-NumPy
-pandas
-matplotlib
-seaborn"
-"Diwali Sales Analysis" project repository! This project is dedicated to analyzing sales data during the festive season of Diwali, providing valuable insights into customer behavior, product performance, and overall sales trends. Leveraging the power of Python and popular libraries such as NumPy, Pandas, Matplotlib, and Seaborn, this project offers a comprehensive exploration of Diwali sales dynamics.
 # output
 
 # Gender
